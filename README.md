@@ -15,3 +15,6 @@ Using this [amazon arduino avoidance bot kit](https://amzn.to/3b5XqVA) as the co
 
 ### Appearance/likeness to R2D2
 When an object is dectected, an "angry" noise will be immitted. When the path is clear, an assorment of "happy" chirps will be played. The led in the head should also change color. 
+
+### Whistles
+Following [this tutorial](https://www.instructables.com/R2D2-Sound-Generator/) and using [these amazon speakers](https://amzn.to/38W7TzV) to make the iconic R2D2 sounds.
